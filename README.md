@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raunakthakur1909/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/raunakthakur1909/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/raunakthakur1909/LEETCODE/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -35,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakthakur1909/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/raunakthakur1909/LEETCODE/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakthakur1909/LEETCODE/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/raunakthakur1909/LEETCODE/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
